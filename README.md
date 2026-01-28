@@ -1,6 +1,9 @@
 <div align="center">
-  #  ⌨️ Typing Speed Test Game (Python)
+  
+# ⌨️ Typing Speed Test Game (Python)
+
 </div>
+
 An interactive and attractive **Typing Speed Test Game** built using Python.  
 The program displays a **random sentence each time**, asks the user to type it, and then calculates **time taken, typing speed (WPM), and accuracy**.  
 If the typed sentence does not match exactly, the user is warned.
