@@ -38,6 +38,10 @@ To help users test and improve their typing speed and accuracy while practicing 
 (No external libraries required)
 
 ---
+##  📸 Output / Demo
+
+<img width="507" height="305" alt="{DE15F738-4E3C-4F8D-841D-AE742DE9E2CA}" src="https://github.com/user-attachments/assets/eeef2909-4e6e-48c1-b93b-174f68a3b828" />
+
 
 ## ▶️ How to Run the Program
 
